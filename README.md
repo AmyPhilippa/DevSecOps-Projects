@@ -1,5 +1,4 @@
 # DevSecOps-Projects
-Hands-on projects showcasing expertise in Cloud, DevOps, and Security engineering, from infrastructure automation to compliance frameworks.
 Welcome! This repository showcases my hands-on projects in **DevOps, Cloud Security, and Cloud Engineering**.  
 Each project is designed around **real-world scenarios** with a focus on **automation, scalability, security, and compliance** across **AWS, Azure, and Google Cloud**.  
 
