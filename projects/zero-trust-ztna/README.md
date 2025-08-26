@@ -34,7 +34,7 @@ projects/zero-trust-ztna/
 
 
 ##  Quick demo (what to show a recruiter)
-- A sample OPA rule + PR that fails when rule broken  
+- A sample OPA rule + PR that fails when the rule is broken  
 - Short demo: request short-lived token -> access denied for unauthorized role  
 - Screenshot of CI failing on policy violation
 
