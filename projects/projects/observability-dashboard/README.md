@@ -1,7 +1,7 @@
 #  Observability Dashboard for Kubernetes (Prometheus + Grafana)
 
 ##  Overview
-This project sets up **end-to-end observability** for containerized apps on Kubernetes using **Prometheus** (metrics & alerting) and **Grafana** (dashboards). It captures app, cluster, and infrastructure metrics, adds **SLO/SLA views**, and triggers alerts on reliability thresholds.
+This project sets up **end-to-end observability** for containerized apps on Kubernetes using **Prometheus** (metrics & alerting) and **Grafana** (dashboards). It captures app, cluster, and infrastructure metrics, adds **SLO/SLA views** and triggers alerts on reliability thresholds.
 
 ##  Tools & Technologies
 - Kubernetes (EKS or kind/minikube compatible)
