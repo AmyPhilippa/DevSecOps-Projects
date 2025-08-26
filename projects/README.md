@@ -2,7 +2,7 @@
 
 ##  Project Overview  
 This project delivers a **modular Infrastructure-as-Code (IaC) framework** using Terraform.  
-It supports **multi-cloud deployments (AWS, Azure, GCP)** with reusable modules for compute, networking, and storage.  
+It supports **multi-cloud deployments (AWS, Azure, GCP)** with reusable modules for compute, networking and storage.  
 
 The framework enforces **security and compliance** using **OPA/Policy-as-Code**, ensuring that all resources meet CIS and organizational standards before deployment.  
 
@@ -19,4 +19,5 @@ The framework enforces **security and compliance** using **OPA/Policy-as-Code**,
 
 ##  Repo Links  
 [Main Portfolio](../..)  
+
 
